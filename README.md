@@ -20,7 +20,7 @@
 ├── lib
 │   ├── hrrn_process.c : 프로세스 구조체에 대한 코드
 │   ├── hrrn_queue.c : 실직적인 동작 구성이 작성된 코드
-│   ├── scheduling_io.c : 텍스트의 input, output을 담당하는 코드
+│   └── scheduling_io.c : 텍스트의 input, output을 담당하는 코드
 │
 └── gantt.py : c 코드로 출력된 텍스트 결과를 시각화 하는 파이썬 코드
 ``` 
