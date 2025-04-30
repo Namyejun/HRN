@@ -8,7 +8,7 @@
 ```bash
 ├── data
 │   ├── gantt
-│   │   ├── hrrn_gantt.txt : 간트 차트를 출력하기 위한 텍스트 파일
+│   │   └── hrrn_gantt.txt : 간트 차트를 출력하기 위한 텍스트 파일
 │   └── hrrn_task_data.txt : 프로세스의 시작 시간과 작업 시간을 알고 있는 텍스트 파일
 │
 ├── hrrn_main
